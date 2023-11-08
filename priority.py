@@ -3,7 +3,7 @@ import math
 
 
 priority = []
-A = 55
+A = 54
 M = 1994
 Zo = 10112166
 C = 9
